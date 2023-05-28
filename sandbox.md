@@ -40,6 +40,11 @@ Link: [link text](http://www.example.com)
 Just some tokens
 ~~~
 
+~~~ ann
+Barack Obama is the current president.
+T1 PERSON 0 12 Barack Obama
+~~~
+
 ~~~ sdparse
 Tokens/Noun with/Adpos POS/Noun
 ~~~
@@ -48,6 +53,7 @@ Tokens/Noun with/Adpos POS/Noun
 A dependency
 det(dependency, A)
 ~~~
+
 
 <div class="sd-parse">
 Alternative syntax
